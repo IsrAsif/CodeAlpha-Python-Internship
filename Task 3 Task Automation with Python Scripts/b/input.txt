@@ -1,0 +1,28 @@
+Welcome to CodeAlpha Internship Program!
+
+Please contact our team for any queries:
+- Head of Operations: operations@codealpha.tech
+- Support Team: services@codealpha.tech
+- HR Department: hr.department@codealpha.org
+
+Student submissions should be emailed to submissions@codealpha.tech
+For LinkedIn queries reach out to social.media@codealpha.com
+
+Some random text with emails scattered around:
+John's email is john.doe123@gmail.com and his backup is john_backup@yahoo.com.
+Our mentor can be reached at mentor.python@codealpha.tech or mentor@outlook.com.
+
+Invalid entries (should NOT be extracted):
+- notanemail
+- missing@
+- @nodomain.com
+- plaintext
+
+More valid emails:
+alice@university.edu
+bob.smith+filter@company.co.uk
+test.email@subdomain.domain.com
+
+Duplicate emails should appear only once:
+services@codealpha.tech
+john.doe123@gmail.com

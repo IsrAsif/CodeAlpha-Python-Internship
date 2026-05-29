@@ -1,0 +1,18 @@
+EXTRACTED EMAIL ADDRESSES
+Date      : 2026-05-29 15:43:35
+Source    : input.txt
+Total     : 12 unique email(s)
+=============================================
+
+  1. operations@codealpha.tech
+  2. services@codealpha.tech
+  3. hr.department@codealpha.org
+  4. submissions@codealpha.tech
+  5. social.media@codealpha.com
+  6. john.doe123@gmail.com
+  7. john_backup@yahoo.com
+  8. mentor.python@codealpha.tech
+  9. mentor@outlook.com
+ 10. alice@university.edu
+ 11. bob.smith+filter@company.co.uk
+ 12. test.email@subdomain.domain.com
