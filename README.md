@@ -15,94 +15,13 @@ This repository contains all the Python projects completed during my **Python Pr
 ---
 
 ## ✅ Tasks Completed
-
-### 🎮 Task 1 — Hangman Game
-**File:** `hangman.py`
-
-A classic text-based Hangman game played in the terminal.
-
-**Features:**
-- 5 predefined words chosen randomly
-- ASCII art gallows that updates with each wrong guess
-- Tracks guessed letters and shows them after every round
-- Input validation and play-again option
-- Max 6 incorrect guesses
-
-**Concepts:** `random`, `while loop`, `if-else`, strings, sets
-
----
-
-### 📈 Task 2 — Stock Portfolio Tracker
-**File:** `stock_portfolio_tracker.py`
-
-A terminal-based stock tracker that calculates total investment value.
-
-**Features:**
-- 8 hardcoded stocks with real-world prices (AAPL, TSLA, NVDA, etc.)
-- User inputs stock symbol and quantity
-- Formatted portfolio summary table with total investment
-- Option to save results as `.csv`, `.txt`, or both
-- Input validation for invalid symbols and quantities
-
-**Concepts:** dictionaries, `input/output`, arithmetic, file handling, CSV
-
----
-
-### 🤖 Task 3 — Task Automation with Python Scripts
-Three automation scripts in one task:
-
-#### 📁 3a — JPG File Mover
-**File:** `move_jpg_files.py`
-
-Automatically moves all `.jpg` / `.jpeg` files from a source folder to a destination folder.
-
-- Auto-creates destination folder if missing
-- Handles duplicate filenames with timestamps
-- Saves a `move_log.txt` with full details
-
-**Concepts:** `os`, `shutil`, file handling
-
----
-
-#### 📧 3b — Email Extractor
-**File:** `email_extractor.py`
-
-Scans a `.txt` file and extracts all valid email addresses, saving them to a new file.
-
-- Uses regex to match standard email formats
-- Removes duplicates while preserving order
-- Saves results with timestamp to `extracted_emails.txt`
-
-**Concepts:** `re`, file handling, regex
-
----
-
-#### 🌐 3c — Web Title Scraper
-**File:** `web_title_scraper.py`
-
-Fetches a fixed webpage and extracts its `<title>` tag, saving it to a file.
-
-- Uses `requests` to fetch live HTML
-- Extracts title using regex (no external parser needed)
-- Appends each scrape with a timestamp to `scraped_title.txt`
-- Graceful error handling for connection issues
-
-**Concepts:** `requests`, `re`, file handling, error handling
-
----
-
-### 💬 Task 4 — Basic Chatbot
-**File:** `chatbot.py`
-
-A friendly rule-based chatbot that responds to common inputs.
-
-**Features:**
-- 15+ predefined rules with keyword matching
-- Handles greetings, questions, jokes, compliments, and farewells
-- Fallback reply for unrecognized inputs
-- Loops until user says "bye"
-
-**Concepts:** `if-elif`, functions, loops, `input/output`
+ 
+| # | Task | File |
+|---|------|------|
+| 1 | 🎮 Hangman Game | `Task1_Hangman/hangman.py` |
+| 2 | 📈 Stock Portfolio Tracker | `Task2_StockTracker/stock_portfolio_tracker.py` |
+| 3 | 🤖 Task Automation Scripts | `Task3_Automation/` |
+| 4 | 💬 Basic Chatbot | `Task4_Chatbot/chatbot.py` |
 
 ---
 
