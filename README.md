@@ -3,14 +3,6 @@
 > **Intern:** Isra Asif &nbsp;|&nbsp; **ID:** CA/DF1/54477 &nbsp;|&nbsp; **Duration:** May 1 – May 30, 2026
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
-![Internship](https://img.shields.io/badge/CodeAlpha-Internship-purple?style=flat)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
-
----
-
-## 📌 About This Repository
-
-This repository contains all the Python projects completed during my **Python Programming Internship at CodeAlpha**. Each task demonstrates core Python concepts including file handling, regex, OOP, automation, and more — built from scratch as part of the internship program.
 
 ---
 
@@ -68,13 +60,3 @@ python email_extractor.py
 python web_title_scraper.py
 python chatbot.py
 ```
-
----
-
-## 🏢 About CodeAlpha
-
-[CodeAlpha](https://www.codealpha.tech) is a leading software development company focused on building scalable and efficient software solutions. Their internship program empowers students to master Python fundamentals through hands-on real-world projects.
-
-- 🌐 Website: [www.codealpha.tech](https://www.codealpha.tech)
-- 📧 Email: services@codealpha.tech
-- 📍 Lucknow, U.P., India
