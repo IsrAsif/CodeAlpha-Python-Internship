@@ -1,6 +1,4 @@
-# CodeAlpha Python Programming Internship
-
-> **Intern:** Isra Asif &nbsp;|&nbsp; **ID:** CA/DF1/54477 &nbsp;|&nbsp; **Duration:** May 1 – May 30, 2026
+# Python Coding Practice Problems
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
 
